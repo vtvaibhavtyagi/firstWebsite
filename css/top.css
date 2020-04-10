@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top {
+  background-color: #dcd6f7;
+  position: relative;
+  font-family: 'Sacramento', cursive;
+}
+
+hr {
+  margin-top: 0;
+  border : dotted #a6b1e1 8px;
+  border-bottom: none;
+  width: 8%;
+
+}
+
+.mountain {
+  width: 50%;
+}
+
+.hey {
+  padding-top: 200px;
+  font-size: 300%;
+  font-weight: lighter;
+  margin: 0 auto 0 auto;
+}
+
+h1 {
+  font-size: 600%;
+  margin: 0 auto 0 auto;
+  
+}

@@ -1,0 +1,83 @@
+.mid{
+  background-color: #f4eeff;
+  line-height: 2;
+
+
+}
+.midHead{
+   font-size: 250%;
+   font-family: 'Montserrat', sans-serif;
+   color:   #424874;
+    margin: 50px auto 50px auto;
+
+}
+
+.skill{
+  font-size: 180%;
+  font-family: 'Montserrat', sans-serif;
+  color:   #424874;
+  margin: 50px auto 50px auto;
+
+}
+.para{
+  font-size: 120%;
+  font-family: 'Baloo Thambi 2', cursive;
+  width: 700px;
+  margin: 0 auto 0 auto;
+  padding-bottom: 70px;
+}
+
+.icon1{
+  width: 16%;
+  padding-top: 50px;
+}
+
+.code{
+  width: 14%
+}
+.cook{
+  padding-top: 50px;
+  width: 14%;
+}
+.contact-message{
+  font-size: 110%;
+  width: 25%;
+  margin: 0 auto 0 auto;
+font-family: 'Baloo Thambi 2', cursive;
+padding-bottom: 100px;
+}
+.contact-me{
+  margin-top:100px;
+}
+.contact {
+    font-family: 'Montserrat', sans-serif;
+
+    color:   #424874;
+}
+.btn {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  font-weight: bold;
+  font-display: block;
+  color: #FFFFFF ;
+  font-size: 15px;
+  padding: 11px 16px;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+  background: #63B8EE;
+  background: linear-gradient(top,  #A6B1E1,  #468CCF);
+  background: -ms-linear-gradient(top,  #A6B1E1,  #468CCF);
+  background: -webkit-gradient(linear, left top, left bottom, from(#A6B1E1), to(#468CCF));
+  background: -moz-linear-gradient(top,  #A6B1E1,  #468CCF);
+  position: relative;
+  bottom: 50px;
+}
+.btn:hover {
+  color: white !important;
+  background: #468CCF;
+  background: linear-gradient(top,  #DCD6F7,  #CE9ADB);
+  background: -ms-linear-gradient(top,  #DCD6F7,  #CE9ADB);
+  background: -webkit-gradient(linear, left top, left bottom, from(#DCD6F7), to(#CE9ADB));
+  background: -moz-linear-gradient(top,  #DCD6F7,  #CE9ADB);
+}
